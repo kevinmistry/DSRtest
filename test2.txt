@@ -1,0 +1,7 @@
+Fancy, schmancy!
+wonderful! Now how to exit?
+CTRL+D
+ctrl+D
+ctrl+d
+:q!
+uh-oh...
